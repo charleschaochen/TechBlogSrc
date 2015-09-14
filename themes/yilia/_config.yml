@@ -1,0 +1,56 @@
+# Header
+menu:
+  主页: /
+  所有文章: /archives
+  # 随笔: /tags/随笔
+
+# SubNav
+subnav:
+  github: "http://github.com/charleschaochen"
+  weibo: "http://weibo.com/bbaocc"
+  rss: "#"
+  mafengwo: "http://www.mafengwo.cn/u/49449646.html"
+  # google: "#"
+  # twitter: "#"
+  # linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.png
+
+#你的头像
+avatar: "https://avatars2.githubusercontent.com/u/3364139?v=3&s=460"
+#是否开启分享
+share: true
+#是否开启多说评论，填写你在多说申请的项目名称
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+#是否开启云标签
+tagcloud: true
+# 作者
+author: 茶藕丝陈
+# 子标题
+subtitle: 爱旅游爱码code的纠结1024天蝎男
+
+#是否开启友情链接
+#不开启——
+friends: false
+#开启——
+friends:
+  Github: http://github.com/charleschaochen
+  Weibo: http://weibo.com/bbaocc
+  蚂蜂窝: http://www.mafengwo.cn/u/49449646.html
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 13年毕业，目前就职网易游戏，Java和前端coder，爱折腾技术，什么都懂一点。热爱生活，坚持梦想。
+
+site: www.charlestech.info
