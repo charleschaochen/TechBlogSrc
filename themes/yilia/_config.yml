@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "http://github.com/charleschaochen"
   weibo: "http://weibo.com/bbaocc"
-  rss: "#"
+  facebook: https://www.facebook.com/bbao.cc
   mafengwo: "http://www.mafengwo.cn/u/49449646.html"
   # google: "#"
   # twitter: "#"
@@ -25,7 +25,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像
-avatar: "https://avatars2.githubusercontent.com/u/3364139?v=3&s=460"
+avatar: "http://file29.mafengwo.net/M00/7D/C0/wKgBpVXrxiCAAKXwAAw-HvfG6RY46.head.w120.jpeg"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称
@@ -34,7 +34,7 @@ duoshuo: true
 #是否开启云标签
 tagcloud: true
 # 作者
-author: 茶藕丝陈
+author: Charles Chen
 # 子标题
 subtitle: 爱旅游爱码code的纠结1024天蝎男
 
