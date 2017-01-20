@@ -40,12 +40,12 @@ subtitle: 天蝎座，爱旅游，爱代码
 
 #是否开启友情链接
 #不开启——
-friends: false
+#friends: false
 #开启——
-friends:
-  Github: http://github.com/charleschaochen
-  Weibo: http://weibo.com/bbaocc
-  蚂蜂窝: http://www.mafengwo.cn/u/49449646.html
+#friends:
+#  Github: http://github.com/charleschaochen
+#  Weibo: http://weibo.com/bbaocc
+#  蚂蜂窝: http://www.mafengwo.cn/u/49449646.html
 
 #是否开启“关于我”。
 #不开启——
